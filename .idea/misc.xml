@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/btn_bg.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable-v24/comment_bg.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/drawable-v24/cutom_button_border.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/drawable-v24/dialog_container.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_filter_list_24.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_post_add_24.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable-v24/ic_outline_comment_24.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable-v24/shape_button_rounded.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/drawable-v24/topbar_bg.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/ic_blogger_icon_splash_screen.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/drawable/ic_crowd_icon.xml" value="0.321025641025641" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2984375" />
+        <entry key="app/src/main/res/drawable/ic_write_posts_icon.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/drawable/splash_icon.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.24909420289855072" />
+        <entry key="app/src/main/res/layout/activity_comments.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.2644927536231884" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_my_base.xml" value="0.14375" />
+        <entry key="app/src/main/res/layout/comment_alert_dialog.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/comment_list_view.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/custom_items.xml" value="0.2644927536231884" />
+        <entry key="app/src/main/res/layout/dialog_progress.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/layout/filter_layout.xml" value="0.271286231884058" />
+        <entry key="app/src/main/res/layout/floating_action_bar.xml" value="0.2296195652173913" />
+        <entry key="app/src/main/res/layout/loading_oview.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/post_alert_dialog.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/post_item_view.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/post_row.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/progress_bar.xml" value="0.2667572463768116" />
+        <entry key="app/src/main/res/layout/scrolling_content.xml" value="0.271286231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

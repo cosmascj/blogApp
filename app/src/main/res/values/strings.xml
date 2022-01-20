@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SimpleBlogApp</string>
+    <string name="list_item_text">item</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Create new posts, sharing the latest news, information, and opinions with our SimpleBlogApp.</string>
+    <string name="create_post">CREATE NEW POST</string>
+    <string name="View_post">VIEW POSTS</string>
+    <string name="sign_in">Home Page</string>
+
+    <string name="nice_write_up">Welcome dear user!</string>
+
+    <string name="comment">Comment</string>
+    <string name="title">Title</string>
+    <string name="user_id">user Id</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_post">Add Post</string>
+    <string name="write_something">Any thing on your mind?...</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="breaking_news">Instant update</string>
+    <string name="search_by_user_id">Search by User Id</string>
+    <string name="comment_id">Comment Id : %s</string>
+    <string name="comments">Comments</string>
+    <string name="comment_hint">Make your comments please</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="new_comment">New Comment</string>
+    <string name="tool_bar_text">BLOG APP</string>
+    <string name="post_item_dummy_date">9 JAN 2022</string>
+    <string name="dummy_post_one">Post 1</string>
+    <string name="Decagon_Blog">Dev\'s Blog</string>
+    <string name="dummy_comment_hint">This blog is for week nine of the decagon program</string>
+    <string name="in_progress_text">Please wait...</string>
+</resources>

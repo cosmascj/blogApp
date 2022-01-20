@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+
+<item name="windowSplashScreenBackground">@color/splash_color</item>
+        
+       <item name="windowSplashScreenAnimatedIcon">@drawable/ic_blogger_icon_splash_screen</item>
+
+
+   <!--
+   post splash screen specifies the theme that would replace the splash
+   screen after it has completed its cycle/interval
+   -->
+        <item name="postSplashScreenTheme">@style/Theme.SimpleBlogApp</item>
+
+
+
+    </style>
+
+</resources>

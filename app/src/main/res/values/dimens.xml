@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_text_size">18sp</dimen>
+    <dimen name="list_item_padding">10sp</dimen>
+
+    <!--  These dimensions will be for the intro activity-->
+
+    <dimen name="toolbar_height">400dp</dimen>
+
+    <dimen name="intro_screen_title_text_size">40sp</dimen>
+    <dimen name="intro_screen_title_text_marginTop">40dp</dimen>
+    <dimen name="intro_screen_image_marginTop">20dp</dimen>
+    <dimen name="lets_get_started_text_marginTop">25dp</dimen>
+    <dimen name="lets_get_started_text_size">25sp</dimen>
+    <dimen name="intro_text_marginStartEnd">20dp</dimen>
+    <dimen name="intro_text_line_spacing_extra">5dp</dimen>
+    <dimen name="intro_text_marginTop">10dp</dimen>
+    <dimen name="intro_text_size">16sp</dimen>
+    <dimen name="btn_marginStartEnd">20dp</dimen>
+    <dimen name="intro_screen_sign_in_btn_marginTop">50dp</dimen>
+    <dimen name="btn_paddingTopBottom">8dp</dimen>
+    <dimen name="intro_screen_sign_up_btn_marginTop">15dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="toolbar_title_text_size">18sp</dimen>
+
+<!--
+Dimensions for the comments activity
+-->
+    <dimen name="layout_marginTest_heading_size">5dp</dimen>
+    <dimen name="layout_marginTest_heading_TextSize">25sp</dimen>
+
+
+    <!--These dimensions are for the progress bar dialog-->
+
+    <dimen name="progress_dialog_content_padding">10dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_text_marginStart">16dp</dimen>
+    <dimen name="progress_text_size">16sp</dimen>
+
+
+
+
+</resources>
